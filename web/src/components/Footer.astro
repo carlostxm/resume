@@ -1,11 +1,13 @@
 ---
+import { GITHUB_URL, LINKEDIN_URL, X_URL } from '../consts';
+
 const today = new Date();
 ---
 
 <footer>
 	&copy; {today.getFullYear()} Carlos Torres Martínez. All rights reserved.
 	<div class="social-links">
-		<a href="https://www.linkedin.com/in/carlostorresmartinez/" target="_blank">
+		<a href={LINKEDIN_URL} target="_blank">
 			<span class="sr-only">Follow Carlos on LinkedIn</span>
 			<svg
 				viewBox="0 0 16 16"
@@ -19,7 +21,7 @@ const today = new Date();
 				></path></svg
 			>
 		</a>
-		<a href="https://x.com/c_towers" target="_blank">
+		<a href={X_URL} target="_blank">
 			<span class="sr-only">Follow Carlos on X</span>
 			<svg viewBox="0 0 16 16" aria-hidden="true" width="32" height="32" astro-icon="social/x"
 				><path
@@ -28,7 +30,7 @@ const today = new Date();
 				></path></svg
 			>
 		</a>
-		<a href="https://github.com/carlostxm" target="_blank">
+		<a href={GITHUB_URL} target="_blank">
 			<span class="sr-only">Go to Carlos's GitHub</span>
 			<svg viewBox="0 0 16 16" aria-hidden="true" width="32" height="32" astro-icon="social/github"
 				><path
@@ -45,6 +47,7 @@ const today = new Date();
 		background: linear-gradient(var(--gray-gradient)) no-repeat;
 		color: rgb(var(--gray));
 		text-align: center;
+		width: 100%;
 	}
 	.social-links {
 		display: flex;
