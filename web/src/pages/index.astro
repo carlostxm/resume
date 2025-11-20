@@ -3,10 +3,8 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import { marked } from 'marked';
 
-// Fetch CV.md from GitHub raw URL (single source of truth)
-const cvUrl = 'https://raw.githubusercontent.com/carlostxm/resume/main/CV.md';
-const response = await fetch(cvUrl);
-const cvMarkdown = await response.text();
+// Import CV.md as raw string (enables hot reload)
+import cvMarkdown from '../CV.md?raw';
 
 // Parse markdown to HTML at build time
 const cvHtml = await marked.parse(cvMarkdown);

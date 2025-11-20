@@ -1,6 +1,6 @@
 # Carlos Torres Martínez
 
-**Location:** Málaga, Spain
+📍 **Location:** Málaga, Spain
 
 **Email:** carlostxm@gmail.com
 
@@ -8,7 +8,7 @@
 
 ---
 
-## PROFESSIONAL SUMMARY
+## Professional Summary
 
 Frontend Engineer with 10+ years of experience building scalable and high-performance web applications using **React** and **TypeScript**. Specialized in **performance optimization**, complex **tooling migrations** (Webpack to Vite, CJS to ESM), and **developer experience improvements**.
 
@@ -18,13 +18,11 @@ Highly organized, with a proven ability to break down and plan work effectively.
 
 ---
 
-## WORK EXPERIENCE  
+## Work Experience
 
 ### **Cabify** — _Senior Frontend Engineer_
 
 **January 2023 – Present · Remote**
-
-- Led the refactoring of large-scale web applications to adopt modern technologies such as RTK Query.
 
 - Re-architected the deployment system by moving the web build to AWS S3 and setting cache expiration policies, **eliminating over 800 monthly chunk load error alerts**.
 
@@ -32,7 +30,7 @@ Highly organized, with a proven ability to break down and plan work effectively.
 
 - Led complex tooling migrations including **Webpack to Vite** and **CommonJS to ESM**, requiring deep understanding of build systems and production deployment pipelines.
 
-- Improved visual regression testing stability using **Storybook and Storycap**, including pinning exact Chromium versions in Docker images to eliminate flaky tests.
+- Improved visual regression testing stability using **Storybook and Storycap**.
 
 - Gained hands-on experience in backend development using **Golang and Elixir** in cross-functional teams, with focus on **observability** using Grafana and Kubernetes.
 
@@ -64,9 +62,9 @@ Highly organized, with a proven ability to break down and plan work effectively.
 
 ---
 
-## TECHNICAL SKILLS  
+## Technical Skills
 
-### Core Strengths  
+#### Core Strengths
 
 - **Organization** – Strong ability to structure tasks, estimate accurately, and deliver on time.
 
@@ -76,7 +74,7 @@ Highly organized, with a proven ability to break down and plan work effectively.
 
 - **Friendly & Approachable** – Positive team player, creating a supportive and collaborative work environment.
 
-### Technical Stack
+#### Technical Stack
 
 **Frontend**
 
@@ -84,9 +82,9 @@ Highly organized, with a proven ability to break down and plan work effectively.
 
 - **State Management:** Redux, RTK Query
 
-- **Tooling & Build Systems:** Webpack, Vite, ESM/CJS module systems
+- **Tooling & Build Systems:** Webpack, Vite, ESM/CJS module systems, Babel
 
-- **Component Development:** Storybook, Storycap (visual regression testing)
+- **Component Development:** Storybook
 
 - **Testing:** React Testing Library, Jest, Cypress (E2E)
 
@@ -94,30 +92,18 @@ Highly organized, with a proven ability to break down and plan work effectively.
 
 **Backend & Infrastructure**
 
-- **Languages:** Golang, Elixir, Java, C++, SQL
+- **Languages:** Golang, SQL, with some exposure to Elixir, Java, and C++
 
 - **Observability & DevOps:** Grafana, Kubernetes, Docker
 
 ---
 
-## EDUCATION  
+## Education
 
-### **Universidad de Granada** — *Master’s Degree in Telecommunications Engineering*  
+**MSc Telecommunications Engineering** — Universidad de Granada · 2009 – 2012
 
-**2009 – 2012 · Granada, Spain**
+**MSc Telecommunications Engineering** — Université Catholique de Louvain · 2010 – 2011
 
-### **Université Catholique de Louvain** — *Master's Year (Erasmus)*  
+**BSc Electronics and Communications Engineering** — Universidad de Málaga · 2002 – 2007
 
-**2010 – 2011 · Louvain-la-Neuve, Belgium**
-
-### **Universidad de Málaga** — *Bachelor of Applied Science in Electronics and Communications Engineering*  
-
-**2002 – 2007 · Málaga, Spain**
-
-### **Lemoncoders** — _Frontend Development Bootcamp_
-
-**November 2017 – April 2018 · Remote**
-
-- Covered JavaScript, TypeScript, React, Angular, Vue.js, SCSS, Webpack, and Jest
-
-- Hands-on projects with modern frontend tools and practices
+**Frontend Development Bootcamp** — Lemoncoders · 2017 – 2018

@@ -4,7 +4,7 @@ Hi! This is my resume repo. I'm keeping my CV in markdown format because it's ea
 
 ## 📄 CV
 
-[View my CV here](./CV.md) in markdown format.
+[View my CV here](./web/src/CV.md) in markdown format.
 
 ## 🌐 Live Version
 
