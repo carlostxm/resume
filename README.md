@@ -8,6 +8,8 @@ Hi! This is my resume repo. I'm keeping my CV in markdown format because it's ea
 
 ## 🌐 Live Version
 
+**[View live resume →](https://resume-two-xi-91.vercel.app)**
+
 I built a simple web version with Astro that fetches the CV directly from this repo at build time. Deployed on Vercel with automatic preview deployments for every PR.
 
 **Stack:**
